@@ -1,7 +1,7 @@
 {
-  "name": "react-custom-hook-base",
-  "version": "1.0.0",
-  "description": "Base project for hook as NPM module",
+  "name": "use-custom-hook",
+  "version": "1.0.1",
+  "description": "Base project for creating react hook modules",
   "main": "./lib/index.js",
   "scripts": {
     "build": "tsc",
